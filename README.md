@@ -65,6 +65,8 @@ Adjust the `chunk_size`, choose a suitable LLM, and modify the prompt as needed.
 ```bash
 uv run evaluator.py
 ```
+<img width="2279" height="1087" alt="屏幕截图 2026-09-14 180944" src="https://github.com/user-attachments/assets/7ea904bc-2758-4b7d-8aae-c6f3367c8ffb" />
+
 # 5. Run the AI assistant
  
 Once you are satisfied with these metrics, run the following command to launch the AI assistant.
@@ -74,3 +76,5 @@ uv run app.py
 ```
  
 In addition, if you want to build a different AI assistant, you can replace the files under the `knowledge-base` folder and repeat steps 2, 3, and 4.
+<img width="1165" height="644" alt="image" src="https://github.com/user-attachments/assets/e8501a9a-f19e-41be-8e7f-0ced36578e2a" />
+
